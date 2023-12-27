@@ -32,7 +32,8 @@
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=atul-007&theme=onedark_duo" />
 
-[![Aryamans's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=atul-007&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atul-007)](https://github.com/atul-007/github-readme-activity-graph)
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
