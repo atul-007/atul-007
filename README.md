@@ -1,20 +1,12 @@
 ```md
-<!--
-  Profile README for atul-007
-  - Keep this file in the repository named exactly the same as your GitHub username:
-    atul-007/atul-007/README.md
-  - Edit the badges, social links and project links below to match your real accounts/projects.
--->
 
 # Hi, I’m Atul 👋
 
 I'm a passionate developer who loves building fast, beautiful, and useful things.  
 I enjoy working across the stack — from crafting delightful front-end experiences to building reliable back-end services.
 
-[![Website](https://img.shields.io/badge/portfolio-%23ff69b4.svg?style=for-the-badge&logo=about.me&logoColor=white)](https://your-site.example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Mail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-ranjan-25a277230/)
+[![Mail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulranjan789@gmail.com)
 
 ---
 
